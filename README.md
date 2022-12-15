@@ -1,6 +1,6 @@
 # ISS210FinalTemplate
 This is where you should drop citations for all the images, links, articles, etc. that you used. You do not need to create hyperlinks.
-““Years Don't Wait for Them”: Increased Inequalities in Children's Right to Education Due to the Covid-19 Pandemic | HRW.” Human Rights Watch, 17 May 2021, https://www.hrw.org/report/2021/05/17/years-dont-wait-them/increased-inequalities-childrens-right-education-due-covid. Accessed 14 December 2022.
+“8 ways teachers can continue supporting students during COVID-19.” American Psychological Association, 13 July 2020, https://www.apa.org/topics/covid-19/teachers-supporting-students. Accessed 14 December 2022.
 “?” ? - YouTube, 11 July 2020, https://youtu.be/redKLfzyD7c. Accessed 14 December 2022.
 Purwokerto, Saifuddin Zuhri. “Online Learning on the Covid-19 Pandemic to Create Educational Access Inequality.” ebsco, 2021, https://eds.s.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=33488f8b-af04-4203-9796-a62adb900779%40redis. Accessed 21 November 2022.
 Purwokerto, Saifuddin Zuhri. “Online Learning on the Covid-19 Pandemic to Create Educational Access Inequality.” ebsco, 2021, https://eds.s.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=33488f8b-af04-4203-9796-a62adb900779%40redis. Accessed 21 November 2022.
