@@ -1,4 +1,4 @@
-# ISS210FinalTemplate
+# Citations
 “8 ways teachers can continue supporting students during COVID-19.” American Psychological Association, 13 July 2020, https://www.apa.org/topics/covid-19/teachers-supporting-students. Accessed 14 December 2022.
 “?” ? - YouTube, 11 July 2020, https://youtu.be/redKLfzyD7c. Accessed 14 December 2022.
 Purwokerto, Saifuddin Zuhri. “Online Learning on the Covid-19 Pandemic to Create Educational Access Inequality.” ebsco, 2021, https://eds.s.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=33488f8b-af04-4203-9796-a62adb900779%40redis. Accessed 21 November 2022.
